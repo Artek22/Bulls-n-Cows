@@ -1,3 +1,4 @@
+![alt tag](https://openrepos.net/sites/default/files/styles/thumbnail/public/packages/14617/icon-unnamed.png?itok=MrX0Ehdv)
 # Классическая игра «Быки и коровы»
 ### Правила игры:
 Цель игры - найти загаданную последовательность трёх цифр, при этом цифры не должны повторяться. Вам даётся 5 попыток.
