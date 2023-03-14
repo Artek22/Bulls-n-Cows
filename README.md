@@ -21,7 +21,4 @@ cd Bulls_n_Cows
 ```
 python main.py
 ```
-Автор:
-```
-Artek22
-```
+
